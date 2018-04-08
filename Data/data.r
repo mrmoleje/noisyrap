@@ -13,3 +13,10 @@
 #source {https://www.kaggle.com/somesnm/partynyc}
 
 "noisyrap"
+
+library(leaflet)
+
+m <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-73.98343, lat=40.67915,
+             popup="1,513 calls")
