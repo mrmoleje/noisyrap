@@ -1,7 +1,7 @@
 # noisyrap
 Analysis of noise complaints in NYC RAP Report
 
-The aim of this repo is to gain understanding in how to use Github, bash and to develop my RAP skills. I've also chosen to create a really basic map, as I would like to develop this skill. I will then go on to use Shiny {https://shiny.rstudio.com/tutorial/} to create a platform for the map. 
+The aim of this repo is to gain understanding in how to use Github, bash and to develop my RAP skills. I've also chosen to create a really basic map using leaflet, as I would like to develop this skill. I will then go on to use Shiny {https://shiny.rstudio.com/tutorial/} to create a platform for the map. 
 
 The creation of the map highlights the residence with the most noise complaints in the last five years.
 
