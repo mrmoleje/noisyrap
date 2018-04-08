@@ -1,7 +1,7 @@
 # noisyrap
 Analysis of noise complaints in NYC RAP Report
 
-The aim of this repo is to gain understanding inhow to use Github, bash and to develo[ my RAP skills. I've also chosen to creat a really basic map, as I would like to develop this skill. 
+The aim of this repo is to gain understanding in how to use Github, bash and to develop my RAP skills. I've also chosen to creat a really basic map, as I would like to develop this skill. 
 
 The creation of the map highlights the residence with the most noise complaints in the last five years.
 
