@@ -1,0 +1,10 @@
+name: shiny
+title:
+username:
+account: mrmoleje
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 317663
+bundleId: 1308347
+url: https://mrmoleje.shinyapps.io/shiny/
+when: 1523201059.99955
