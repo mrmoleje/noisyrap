@@ -1,3 +1,5 @@
+install.packages("rsconnect")
+
 library(shiny)
 library(rsconnect)
 
